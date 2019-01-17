@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
 
         mTodoList = new ArrayDeque<String>();
 
-        mTodoListTV = findViewById(R.id.tv_todo_list);
+//        mTodoListTV = findViewById(R.id.tv_todo_list);
         mTodoEntryET = findViewById(R.id.et_todo_entry);
 
         Button addTodoButton = findViewById(R.id.btn_add_todo);
